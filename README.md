@@ -1,1 +1,2 @@
-# Practica-01
+# Practica-01  
+Métodos Burbuja y Burbuja Optimizada
